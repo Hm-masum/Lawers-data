@@ -1,0 +1,114 @@
+{
+ "posts": [
+    {
+      "id": 1,
+      "name": " Adv. Sanjida Rahman ",
+      "Designation": " Devorce Lawyer ",
+      "description": "Adv. Sanjida rahman is a renowned Devorce, Family, Relation Law Specialist in Bangladesh Supreme Court.Adv. Sanjida rahman is currently working as a Devorce Lawyer in Supreme Court Bangladesh. Adv. Sanjida rahman has completed LLB at IIUC, LLM at Dhaka University. She has also completed PHD in Oxfort University. She is a founder of mini law school. She is a highly qualified lawyer in Bangladesh. She is advisor of dept. of law in IIUC. The chamber address of Adv. Sanjida rahman is: Bangladesh Supreme Court,3rd floor,room no-1, Dhaka.",
+      "email": "sanju@gmail.com",
+      "img": "https://i.ibb.co/DwDTj6M/pexels-cottonbro-studio-6538863.jpg",
+      "address": "Bangladesh Supreme Court,3rd floor,room no-1, Dhaka. ",
+      "phone": " 01892696007",
+      "fee": 1200
+    },
+    {
+      "id": 2,
+      "name": " Adv. Rafayet Rahman ",
+      "Designation": "Family Lawyer",
+     "description": "Adv. Rafayet Rahman is a renowned Devorce, Family, Relation Law Specialist in Bangladesh Supreme Court. Adv. Rafayet Rahman is currently working as a Family Lawyer in Supreme Court Bangladesh. Adv. Rafayet Rahman has completed LLB at IIUC, LLM at Dhaka University. He has also completed PHD in Oxfort University. He is a founder of mini law school. He is a highly qualified lawyer in Bangladesh. He is advisor of dept. of law in IIUC. The chamber address of Adv. Rafayet Rahman is: Bangladesh Supreme Court,3rd floor,room no-2, Dhaka.",
+      "email": "rafayet@gmail.com",
+      "img": "https://i.ibb.co/J7byBRL/pexels-karolina-grabowska-7875838.jpg",
+      "address": "Bangladesh Supreme Court,3rd floor,room no-2, Dhaka. ",
+      "phone": " 01816216183",
+      "fee": 1500
+    },
+    {
+      "id": 3,
+      "name": " Adv. Rakib Rahman ",
+      "Designation": "Real Estate Lawyer ",
+      "description": "Adv. Rakib Rahman is a renowned  Solicitor, Intellectual, Real State Law Specialist in Bangladesh Supreme Court. Adv. Rakib Rahman is currently working as a Real Estate Lawyer in Supreme Court Bangladesh. Adv. Rakib Rahman has completed LLB at IIUC, LLM at Dhaka University. He has also completed PHD in Oxfort University. He is a founder of mini law school. He is a highly qualified lawyer in Bangladesh.He is advisor of dept. of law in IIUC. The chamber address of Adv. Rakib Rahman is: Bangladesh Supreme Court,3rd floor,room no-3, Dhaka.",
+      "email": "rakib@gmail.com",
+      "img": "https://i.ibb.co/5jjm1Gm/pexels-karolina-grabowska-7876289.jpg",
+     "address": "Bangladesh Supreme Court,3rd floor,room no-3, Dhaka. ",
+      "phone": " 01816216173",
+      "fee": 1000
+    },
+    {
+      "id": 4,
+      "name": " Adv. Hasib Hasan ",
+      "Designation": "Judicial Lawyer",
+      "description": "Adv. Hasib Hasan is a renowned Legal system, Judiciary Law Specialist in Bangladesh Supreme Court. Adv. Hasib Hasan is currently working as a Judicial Lawyer in Supreme Court Bangladesh. Adv. Hasib Hasan has completed LLB at IIUC, LLM at Dhaka University. He has also completed PHD in Oxfort University. He is a founder of mini law school. He is a highly qualified lawyer in Bangladesh. He is advisor of dept. of law in IIUC. The chamber address of Adv. Hasib Hasan is: Bangladesh Supreme Court,3rd floor,room no-4, Dhaka.",
+      "email": "hasib@gmail.com",
+      "img": "https://i.ibb.co/zHjb59Z/pexels-olia-danilevich-5313175.jpg",
+      "address": "Bangladesh Supreme Court,3rd floor,room no-4, Dhaka. ",
+      "phone": " 01725694669",
+      "fee": 2000
+    },
+    {
+      "id": 5,
+      "name": " Adv. Hafiz Hasan ",
+      "Designation": " Immigration Lawyer ",
+     "description": "Adv. Hafiz Hasan is a renowned Corporate, Immigration Law Specialist in Bangladesh Supreme Court.Adv. Hafiz Hasan is currently working as a Immigration Lawyer in Supreme Court Bangladesh.Adv. Hafiz Hasan has completed LLB at IIUC, LLM at Dhaka University. He has also completed PHD in Oxfort University. He is a founder of mini law school.He is a highly qualified lawyer in Bangladesh.He is advisor of dept. of law in IIUC. The chamber address of Adv. Hafiz Hasan is: Bangladesh Supreme Court,3rd floor,room no-5, Dhaka.",
+      "email": "Nohas@gmail.com",
+      "img": "https://i.ibb.co/9WGPKSP/pexels-patricio-ledeill-19052075.jpg",
+      "address": "Bangladesh Supreme Court,3rd floor,room no-5, Dhaka.",
+      "phone": " 01725694661",
+      "fee": 2500
+    },
+    {
+      "id": 6,
+      "name": " Adv.Israt Nur ",
+      "Designation": "Criminal Defense Lawyer",
+      "description": "Adv.Israt Nur is a renowned Solicitor, Criminal Defense Law Specialist in Bangladesh Judge Court. Adv.Israt Nur is currently working as a Criminal Defense Lawyer in Supreme Court Bangladesh. Adv. Israt Nur has completed LLB at IIUC, LLM at University of Chittagong. She has also completed PHD in Oxfort University. She is a founder of mini law school. She is a highly qualified lawyer in Bangladesh. She is advisor of dept. of law in IIUC. The chamber address of Adv. Sanjida rahman is: Bangladesh Judge Court,2nd floor,room no-1, Chittagong.",
+      "email": "Israt@gmail.com",
+      "img": "https://i.ibb.co/NrPPztf/pexels-karolina-grabowska-7875834.jpg",
+      "address": "Bangladesh Judge Court,2nd floor,room no-1, Chittagong.",
+      "phone": " 01725694659",
+      "fee": 9999
+    },
+    {
+      "id": 7,
+      "name": " Adv. Rafsan uddin ",
+      "Designation": "Employment Lawyer",
+      "description": "Adv. Rafsan uddin is a renowned Solicitor, Employment Law Specialist in Bangladesh Judge Court. Adv. Rafsan uddin is currently working as a Employment Lawyer in Bangladesh Judge Court. Adv. Rafsan uddin has completed LLB at IIUC, LLM at University of Chittagong. He has also completed PHD in Oxfort University. He is a founder of mini law school. He highly qualified lawyer in Bangladesh. He is advisor of dept. of law in IIUC. The chamber address of Adv. Rafsan uddin is: Bangladesh Judge Court,2nd floor,room no-3, Chittagong.",
+      "email": "Rafsan@gmail.com",
+      "img": "https://i.ibb.co/g9PQnr1/pexels-pavel-danilyuk-8112104.jpg",
+      "address": "Bangladesh Judge Court,2nd floor,room no-2, Chittagong.",
+      "phone": " 01725694623",
+      "fee": 1200
+    },
+    {
+      "id": 8,
+      "name": " Adv. Tahfiz uddin",
+      "Designation": "Environmental Lawyer",
+      "description": "Adv. Tahfiz uddin is a renowned Solicitor, Environmental Law Specialist in Bangladesh Judge Court. Adv. Tahfiz uddin is currently working as a Environmental Lawyer in Bangladesh Judge Court. Adv. Tahfiz uddin has completed LLB at IIUC, LLM at University of Chittagong. He has also completed PHD in Oxfort University. He is a founder of mini law school. He highly qualified lawyer in Bangladesh. He is advisor of dept. of law in IIUC. The chamber address of Adv. Tahfiz uddin is: Bangladesh Judge Court,2nd floor,room no-3, Chittagong.",
+      "email": "tahfiz@gmail.com",
+      "img": "https://i.ibb.co/mStJ6Y6/pexels-rdne-stock-project-7841480.jpg",
+      "address": "Bangladesh Judge Court,2nd floor,room no-3, Chittagong.",
+      "phone": " 01725694664",
+      "fee": 2000
+    },
+    {
+      "id": 9,
+      "name": " Adv. Salman Khan",
+      "Designation": "Bankruptcy Lawyer",
+      "description": "Adv. Salman Khan is a renowned Intellectual ,Bankruptcy Defense Law Specialist in Bangladesh Judge Court. Adv. Salman Khan is currently working as a Bankruptcy Lawyer in Bangladesh Judge Court. Adv. Salman Khan has completed LLB at IIUC, LLM at University of Chittagong. He has also completed PHD in Oxfort University. He is a founder of mini law school. He highly qualified lawyer in Bangladesh. He is advisor of dept. of law in IIUC. The chamber address of Adv. Salman Khan is: Bangladesh Judge Court,2nd floor,room no-4, Chittagong.",
+      "email": "salman@gmail.com",
+      "img": "https://i.ibb.co/23fZN2s/pexels-sora-shimazaki-5668790.jpg",
+      "address": "Bangladesh Judge Court,2nd floor,room no-4, Chittagong.",
+      "phone": " 01725694676",
+      "fee": 2500
+    },
+    {
+      "id": 10,
+      "name": " Adv. Fawjia Islam ",
+      "Designation": "Criminal Defense Lawyer",
+      "description": "Adv. Fawjia Islam is a renowned Solicitor ,Criminal Defense Law Specialist in Bangladesh Judge Court. Adv. Fawjia Islam is currently working as a Criminal Defense Lawyer in Bangladesh Judge Court. Adv. Fawjia Islam has completed LLB at IIUC, LLM at University of Chittagong. She has also completed PHD in Oxfort University. She is a founder of mini law school. She highly qualified lawyer in Bangladesh. She is advisor of dept. of law in IIUC. The chamber address of Adv. Fawjia Islam is: Bangladesh Judge Court,2nd floor,room no-5, Chittagong.",
+      "email": "fawji@gmail.com",
+      "img": "https://i.ibb.co/kKhHFW0/pexels-sora-shimazaki-5673501.jpg",
+      "address": "Bangladesh Judge Court,2nd floor,room no-5, Chittagong.",
+      "phone": " 01725694999",
+      "fee": 2000
+    }
+  ]
+}
